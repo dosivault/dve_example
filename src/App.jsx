@@ -38,7 +38,7 @@ function App() {
       </div>
 
       <footer className="fixed w-full bottom-0 border-t p-4 flex">
-        <a href="https://github.com/dosivault/wc_v1_example">Source code</a>
+        <a href="https://github.com/dosivault/dve_example">Source code</a>
       </footer>
     </div>
   );
